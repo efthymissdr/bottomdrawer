@@ -10,7 +10,7 @@ const toolbar = (props) => (
         <Toggle onClick={props.onToggleClick} />
       </div>
       <div className="toolbar_logo">
-        <a href="/">ELOQUII</a>
+        <a href="/">PRODUCTS</a>
       </div>
       <div className="toolbar_navigation_items"></div>
     </nav>

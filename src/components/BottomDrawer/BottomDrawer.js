@@ -71,6 +71,28 @@ const bottomDrawer = (props) => {
             </a>
           </div>
         </li>
+        <li>
+          <img src="https://placehold.co/60x60" alt="mplouza" />
+          <div className="product1">
+            <a id="title1" href="/">
+              Dummy product to see if scrolling works properly
+            </a>
+            <a id="link" href="url">
+              SHOP NOW
+            </a>
+          </div>
+        </li>
+        <li>
+          <img src="https://placehold.co/60x60" alt="mplouza" />
+          <div className="product1">
+            <a id="title1" href="/">
+              Dummy product to see if scrolling works properly
+            </a>
+            <a id="link" href="url">
+              SHOP NOW
+            </a>
+          </div>
+        </li>
       </ul>
     </nav>
   );

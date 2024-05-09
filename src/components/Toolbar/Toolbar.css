@@ -3,7 +3,7 @@
   top: 0;
   left: 0;
   position: fixed;
-  background-color: rgb(100, 93, 107);
+  background-color: rgb(23, 23, 24);
   height: 56px;
 }
 
@@ -20,16 +20,15 @@
 
 .toolbar_logo a {
   color: white;
-  text-decoration: none;
-  font-size: 1.5rem;
-  color: #1674d1;
-  font-family: "Great Vibes", cursive;
+  text-decoration: underline overline #dd6460;
+  font-size: 24px;
+  color: #c4c7ca;
   line-height: 160px;
   font-weight: normal;
   margin-bottom: 0px;
   margin-top: 40px;
   text-align: center;
-  text-shadow: 0 1px 1px #fff;
+  text-shadow: 0 1px 1px #ecc6c6;
 }
 
 .toolbar_navigation_items ul {
